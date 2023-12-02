@@ -1,4 +1,4 @@
-swiggy-top3-recco
+Using Coockiecutter swiggy-top3-recco
 ==============================
 
 This project will help reccomend the top 3 iteam on swiggy 
